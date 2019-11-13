@@ -1,0 +1,2 @@
+# update gfwlist at 4:30am every day
+30 4 * * * sh /root/gfwlist_autoupdate.sh
